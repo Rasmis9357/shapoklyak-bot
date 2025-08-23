@@ -1,0 +1,4 @@
+python-telegram-bot==21.*
+fastapi
+uvicorn
+openai>=1.40.0
